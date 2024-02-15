@@ -1,6 +1,6 @@
 # Full Page Component with Modal
 
-This project demonstrates a full-page component with an integrated modal. The component includes a background image, overlay, and a modal triggered by a "Click me" button.
+This project demonstrates a full-page component with an integrated modal. The component includes a  image, overlay, and a modal triggered by a "Click me" button.
 
 ## Screenshots
 
