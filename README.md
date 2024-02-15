@@ -4,11 +4,11 @@ This project demonstrates a full-page component with an integrated modal. The co
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](images/Screenshot1.png)
 
 *The "Click me" button is visible at the top, and the background image.*
 
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2](images/Screenshot2.png)
 
 *The modal with the title, content, and "OK" button.*
 
