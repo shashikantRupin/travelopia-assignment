@@ -1,5 +1,3 @@
-// Optional jQuery class toggle for added robustness.
-
 
 var labelID;
 
