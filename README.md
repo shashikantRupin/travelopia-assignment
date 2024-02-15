@@ -4,11 +4,11 @@ This project demonstrates a full-page component with an integrated modal. The co
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot1.jpg)
+![Screenshot 1](images/screenshot1.png)
 
 *The "Click me" button is visible at the top, and the background image.*
 
-![Screenshot 2](images/screenshot2.jpg)
+![Screenshot 2](images/screenshot2.png)
 
 *The modal with the title, content, and "OK" button.*
 
@@ -20,3 +20,5 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone [https://github.com/shashikantRupin/travelopia-assignment]
+## Usage
+Open the index.html file in your preferred web browser.
